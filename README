@@ -11,3 +11,7 @@ So, the main idea about using Githubs's pull requests for code review is
 that its interface allows for commenting files on a line-by-line basis
 and other forms of dicussions about the code pertaining the change
 purposed by the pull request.
+
+The big question is: do updates in the branch the pull request is comming from
+reflect in the pull request? Will comments made to a given line of code move
+follow those updates?
