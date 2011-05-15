@@ -5,6 +5,10 @@ This is the initial README file for a short-lived project.
 There is nothing to see here. I'm just testing a code-review cicle using
 GitHub's "Pull Request" feature.
 
+= Bogus section =
+
+This section only exist to change the numbering of the lines bellow it and thus check if comments made in Github follow the lines they were originally ment to.
+
 = Pull requests =
 
 So, the main idea about using Githubs's pull requests for code review is
@@ -15,3 +19,4 @@ purposed by the pull request.
 The big question is: do updates in the branch the pull request is comming from
 reflect in the pull request? Will comments made to a given line of code move
 follow those updates?
+
