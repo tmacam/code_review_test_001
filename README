@@ -4,3 +4,10 @@ This is the initial README file for a short-lived project.
 
 There is nothing to see here. I'm just testing a code-review cicle using
 GitHub's "Pull Request" feature.
+
+= Pull requests =
+
+So, the main idea about using Githubs's pull requests for code review is
+that its interface allows for commenting files on a line-by-line basis
+and other forms of dicussions about the code pertaining the change
+purposed by the pull request.
